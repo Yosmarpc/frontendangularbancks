@@ -1,0 +1,23 @@
+#navBar {
+  background-color: #ff8700;
+  border-bottom: 1px solid #ccc;
+  color: #fff;
+}
+
+#navBar a {
+  color: #fff;
+}
+
+.subhearder {
+ 
+  font-size: 30px;
+ 
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+
+}
+
+.center {
+  width: 75%;
+  margin: 0px auto;
+}
